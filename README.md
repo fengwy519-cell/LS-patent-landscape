@@ -10,6 +10,8 @@
 - [x] 提取两份中国科学院大学学位论文中的技术问题、厂商路线和专利线索
 - [x] 建立关键词、分类号、申请人、发明人、family 与引用扩展框架
 - [x] 确认第一批 ASML、Nikon、Canon 与中国研发单位的 Seed Families
+- [x] 建立 38 条核心 family/continuation 数据库和 23 条独立权利要求风险分支
+- [x] 完成厂商路线、UVLS、难点/趋势与 v0.1 主报告
 - [ ] 完成核心 family 的全地域同族和官方法律状态逐案核验
 - [ ] 完成主要 family 的 forward/backward citation 清洗
 - [ ] 将高风险候选与具体自主 LS 架构逐要素比对
@@ -26,6 +28,7 @@
 ## 文件索引
 
 - [研究方法](00_methodology/research_methodology.md)
+- [随附论文证据索引](00_methodology/source_notes.md)
 - [检索策略与同义词](01_search/search_strategy.md)
 - [检索记录](01_search/search_log.csv)
 - [核心 Patent Family 数据库](02_data/patent_families.csv)
