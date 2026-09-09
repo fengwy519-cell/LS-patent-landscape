@@ -1,0 +1,7 @@
+search_date,database,query_or_path,purpose,result_count,seed_or_output,verification
+2026-09-09,Google Patents,"ASML level sensor photoresist UV DUV",Locate UVLS origin and later citations,not_stable,"US8842293B2; WO2018082892A1; WO2019197111A1",full_text_reviewed
+2026-09-09,Google Patents,"Nikon autofocus wafer surface position grating polarization wavelength",Locate Nikon optical architecture and thin-film correction,not_stable,"US9069261B2; US20110071784A1; US20130208104A1; US9243901B2",full_text_reviewed
+2026-09-09,Google Patents,"Canon surface position measuring lithographic apparatus wafer",Locate Canon historical and modern control route,not_stable,"US7668343B2; US20150042969A1; US20240061350A1",partially_reviewed
+2026-09-09,Google Patents,"site:patents.google.com lithography level sensor detector grating ASML",Citation pearl-growing from ASML seeds,not_stable,"US7265364B2; US7646471B2; US9488465B2; WO2016102127A1",partially_reviewed
+2026-09-09,Google Patents,"调焦 调平 光刻 光栅 莫尔 晶圆",Identify Chinese assignees and domestic technical branches,not_stable,"CN1700101B; CN1971426A; CN101276160B; CN105242501B",partially_reviewed
+2026-09-09,Attached theses,"reference-list and company-history extraction",Seed discovery and physical-problem vocabulary,2,"ASD/GPD; broadband; large incidence angle; reflective Offner; multi-point moire",secondary_source
