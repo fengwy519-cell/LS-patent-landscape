@@ -2,7 +2,7 @@
 
 本仓库以 Patent Family 为基本分析单元，研究光刻机调焦调平/晶圆高度与表面形貌检测技术。时间重点为 2006 年至今，必要时回溯基础专利；地域覆盖 WO、EP、US、JP、CN、KR。
 
-> 状态日期：2026-09-09。当前为 **v0.2 立项材料收敛版**。法律状态栏是检索时点的初筛结果；在 Preliminary FTO 使用前，必须到相应司法辖区官方登记簿逐案复核。
+> 状态日期：2026-09-09。当前为 **v0.2 立项材料收敛版 / PPT-DATA-FROZEN-v1**。法律状态栏是检索时点的初筛结果；在 Preliminary FTO 使用前，必须到相应司法辖区官方登记簿逐案复核。
 
 ## 当前进度
 
@@ -12,14 +12,15 @@
 - [x] 确认第一批 ASML、Nikon、Canon 与中国研发单位的 Seed Families
 - [x] 建立 38 条核心 family/continuation 数据库和 23 条独立权利要求风险分支
 - [x] 完成厂商路线、UVLS、难点/趋势与 v0.1 主报告
-- [x] 按统一门槛建立 2006–2024 年、197 个 family 级记录的 PPT 定量样本
+- [x] 按统一门槛建立并冻结 2006–2024 年、195 个 family 级记录的 PPT 定量样本
+- [x] 完成 A/B/C 公布—授权、跨国家同族去重及 Applicant/Year 统计一致性审核
 - [x] 完成 Applicant × Year、Applicant × Technology 的可透视数据
 - [x] 将厂商路线、六个技术矛盾、五阶段演进和风险区域压缩为 1–2 页 PPT 输入
 - [ ] 待具体 LS 架构和目标市场明确后，再启动逐国法律状态核验、claim chart 与正式 FTO
 
 ## 已确认的关键结论（阶段性）
 
-1. 统一检索口径下识别到 **197 个相关 family 级记录**，其中 SMEE 101、ASML 37、Canon 23、Nikon 17、中国科学院相关机构 7、其他 12。该数值是可比较的 Landscape 样本，不是“全球 LS 专利总量”，也不代表技术领先性。
+1. 冻结数据版本 `PPT-DATA-FROZEN-v1` 在统一检索口径下保留 **195 个相关 family 级记录**，其中 SMEE 100、ASML 36、Canon 23、Nikon 17、中国科学院相关机构 7、其他 12。该数值是可比较的 Landscape 样本，不是“全球 LS 专利总量”，也不代表技术领先性。
 2. **ASML** 的连续路线可追踪为：宽谱斜入射和偏振/波长差分校正 → 使用光刻胶敏感的 UV/DUV 使信号更表面化 → 可变空间分辨率与动态量程 → 检测光栅一体化、多通道小型化 → 不同 footprint 传感器融合及新型均匀照明/场分割。
 3. **Nikon** 长期围绕斜入射条纹/光栅投影展开：利用双侧远心和棱镜结构稳定成像，继而处理薄膜导致的偏振位移、Goos–Hänchen 偏差、多波长灵敏度差异、空气温漂和 detector-array 解调。
 4. **Canon** 从多点/多波长离轴测量和双工位基准传递，演进到大检测区域、邻场测量、按曝光区域布点及扫描动态协同；该路线重心是把 surface map 嵌入设备节拍与控制。
@@ -44,6 +45,7 @@
 - [主报告](05_report/LS_patent_landscape_report.md)
 - [立项 PPT 核心信息与两页方案](06_presentation/ppt_key_messages.md)
 - [PPT 作图数据](06_presentation/ppt_data.csv)
+- [PPT 数据去重与一致性审计](06_presentation/ppt_data_audit.md)
 - [PPT 厂商路线矩阵](06_presentation/ppt_company_routes.md)
 - [PPT 技术难点与趋势](06_presentation/ppt_challenges_trends.md)
 - [PPT 风险提示](06_presentation/ppt_risk_summary.md)
