@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">LS 专利年度活跃趋势</title><desc id="desc">2006 至 2024 年冻结样本年度柱状图。</desc>
+  <defs><style>text { font-family: 'Noto Sans SC','Noto LS Base','Noto LS Static','Noto LS Living','Noto LS Clocks','Noto LS Rail','Noto LS Zipper','Noto LS Open','Noto LS Light','Source Han Sans SC','Microsoft YaHei','Noto Sans',Arial,sans-serif; } .en { font-family: 'Noto Sans', Arial, sans-serif; }</style>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1769AA"/></marker>
+    <marker id="arrow-muted" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#627D98"/></marker>
+  </defs><rect x="0" y="0" width="1600" height="900" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0" opacity="1"/><text x="72" y="64" font-size="42" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="">LS 专利布局持续约 20 年，近年仍有公开研发活动</text>
+<text x="72" y="116" font-size="24" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">2006–2024 · earliest priority · PPT-DATA-FROZEN-v1</text>
+<line x1="72" y1="145" x2="1528" y2="145" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<line x1="118" y1="658" x2="1516" y2="658" stroke="#627D98" stroke-width="2.5" opacity="1"/>
+<text x="100" y="658" font-size="22" font-weight="400" fill="#627D98" text-anchor="end" dominant-baseline="middle" opacity="1" class="">0</text>
+<line x1="118" y1="564" x2="1516" y2="564" stroke="#D9E2EC" stroke-width="1.5" opacity="1"/>
+<text x="100" y="564" font-size="22" font-weight="400" fill="#627D98" text-anchor="end" dominant-baseline="middle" opacity="1" class="">5</text>
+<line x1="118" y1="470" x2="1516" y2="470" stroke="#D9E2EC" stroke-width="1.5" opacity="1"/>
+<text x="100" y="470" font-size="22" font-weight="400" fill="#627D98" text-anchor="end" dominant-baseline="middle" opacity="1" class="">10</text>
+<line x1="118" y1="376" x2="1516" y2="376" stroke="#D9E2EC" stroke-width="1.5" opacity="1"/>
+<text x="100" y="376" font-size="22" font-weight="400" fill="#627D98" text-anchor="end" dominant-baseline="middle" opacity="1" class="">15</text>
+<line x1="118" y1="282" x2="1516" y2="282" stroke="#D9E2EC" stroke-width="1.5" opacity="1"/>
+<text x="100" y="282" font-size="22" font-weight="400" fill="#627D98" text-anchor="end" dominant-baseline="middle" opacity="1" class="">20</text>
+<line x1="118" y1="188" x2="1516" y2="188" stroke="#D9E2EC" stroke-width="1.5" opacity="1"/>
+<text x="100" y="188" font-size="22" font-weight="400" fill="#627D98" text-anchor="end" dominant-baseline="middle" opacity="1" class="">25</text>
+<text x="35" y="423" font-size="22" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en" transform="rotate(-90 35 423)">Family / invention-branch count</text>
+<rect x="133.78947368421052" y="432.4" width="42" height="225.6" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="154.78947368421052" y="414.4" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">12</text>
+<text x="154.78947368421052" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2006</text>
+<rect x="207.36842105263156" y="413.6" width="42" height="244.4" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="228.36842105263156" y="395.6" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">13</text>
+<text x="228.36842105263156" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2007</text>
+<rect x="280.9473684210526" y="413.6" width="42" height="244.4" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="301.9473684210526" y="395.6" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">13</text>
+<text x="301.9473684210526" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2008</text>
+<rect x="354.5263157894737" y="394.79999999999995" width="42" height="263.20000000000005" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="375.5263157894737" y="376.79999999999995" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">14</text>
+<text x="375.5263157894737" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2009</text>
+<rect x="428.10526315789474" y="545.2" width="42" height="112.8" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="449.10526315789474" y="527.2" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">6</text>
+<text x="449.10526315789474" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2010</text>
+<rect x="501.6842105263158" y="451.2" width="42" height="206.8" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="522.6842105263158" y="433.2" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">11</text>
+<text x="522.6842105263158" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2011</text>
+<rect x="575.2631578947369" y="263.2" width="42" height="394.8" rx="4" fill="#168AAD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="596.2631578947369" y="245.2" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">21</text>
+<text x="596.2631578947369" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2012</text>
+<rect x="648.8421052631579" y="394.79999999999995" width="42" height="263.20000000000005" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="669.8421052631579" y="376.79999999999995" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">14</text>
+<text x="669.8421052631579" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2013</text>
+<rect x="722.421052631579" y="432.4" width="42" height="225.6" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="743.421052631579" y="414.4" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">12</text>
+<text x="743.421052631579" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2014</text>
+<rect x="796" y="451.2" width="42" height="206.8" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="817" y="433.2" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">11</text>
+<text x="817" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2015</text>
+<rect x="869.578947368421" y="451.2" width="42" height="206.8" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="890.578947368421" y="433.2" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">11</text>
+<text x="890.578947368421" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2016</text>
+<rect x="943.1578947368421" y="601.6" width="42" height="56.4" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="964.1578947368421" y="583.6" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">3</text>
+<text x="964.1578947368421" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2017</text>
+<rect x="1016.7368421052632" y="526.4" width="42" height="131.60000000000002" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1037.7368421052633" y="508.4" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">7</text>
+<text x="1037.7368421052633" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2018</text>
+<rect x="1090.3157894736844" y="582.8" width="42" height="75.2" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1111.3157894736844" y="564.8" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">4</text>
+<text x="1111.3157894736844" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2019</text>
+<rect x="1163.8947368421054" y="526.4" width="42" height="131.60000000000002" rx="4" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1184.8947368421054" y="508.4" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">7</text>
+<text x="1184.8947368421054" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2020</text>
+<rect x="1237.4736842105265" y="545.2" width="42" height="112.8" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1258.4736842105265" y="527.2" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">6</text>
+<text x="1258.4736842105265" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2021</text>
+<rect x="1311.0526315789475" y="470" width="42" height="188" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1332.0526315789475" y="452" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">10</text>
+<text x="1332.0526315789475" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2022</text>
+<rect x="1384.6315789473686" y="470" width="42" height="188" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1405.6315789473686" y="452" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">10</text>
+<text x="1405.6315789473686" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2023</text>
+<rect x="1458.2105263157896" y="470" width="42" height="188" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1479.2105263157896" y="452" font-size="22" font-weight="700" fill="#243B53" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">10</text>
+<text x="1479.2105263157896" y="692" font-size="20" font-weight="400" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2024</text>
+<rect x="124" y="735" width="282.3157894736842" height="48" rx="8" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="265.1578947368421" y="760" font-size="20" font-weight="600" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">基础测高</text>
+<rect x="418.3157894736842" y="735" width="429.47368421052636" height="48" rx="8" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="633.0526315789474" y="760" font-size="20" font-weight="600" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">Process-aware / 能力扩展</text>
+<rect x="859.7894736842105" y="735" width="355.89473684210526" height="48" rx="8" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1037.7368421052631" y="760" font-size="20" font-weight="600" fill="#627D98" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">阵列化 / 数字化</text>
+<rect x="1227.6842105263158" y="735" width="282.3157894736842" height="48" rx="8" fill="#EAF3F8" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1368.842105263158" y="760" font-size="20" font-weight="600" fill="#1769AA" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">高吞吐 / map 协同</text>
+<text x="72" y="850" font-size="22" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">统一检索口径下相关 Patent Family / invention-branch 样本；按 earliest priority 统计。</text></svg>

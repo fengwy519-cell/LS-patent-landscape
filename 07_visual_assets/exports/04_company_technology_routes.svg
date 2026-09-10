@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="980" viewBox="0 0 1800 980" role="img" aria-labelledby="title desc">
+  <title id="title">四家技术路线对比</title><desc id="desc">ASML、Nikon、Canon 与 SMEE 或中国研发的四条技术路线。</desc>
+  <defs><style>text { font-family: 'Noto Sans SC','Noto LS Base','Noto LS Static','Noto LS Living','Noto LS Clocks','Noto LS Rail','Noto LS Zipper','Noto LS Open','Noto LS Light','Source Han Sans SC','Microsoft YaHei','Noto Sans',Arial,sans-serif; } .en { font-family: 'Noto Sans', Arial, sans-serif; }</style>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1769AA"/></marker>
+    <marker id="arrow-muted" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#627D98"/></marker>
+  </defs><rect x="0" y="0" width="1800" height="980" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0" opacity="1"/><text x="72" y="64" font-size="42" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="">四家主要厂商：同源基础，不同长期技术重心</text>
+<text x="72" y="116" font-size="24" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">每条路线仅保留冻结结论中的 3–4 个主阶段</text>
+<line x1="72" y1="145" x2="1728" y2="145" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="72" y="190" width="1656" height="150" rx="12" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="72" y="190" width="8" height="150" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="102" y="238" font-size="33" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">ASML</text>
+<text x="102" y="289" font-size="21" font-weight="500" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">工艺物理 → 整机集成</text>
+<rect x="430" y="214" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="430" y="214" width="8" height="102" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="454" y="239" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="454" dy="0">宽谱 / 偏振差分</tspan></text>
+<line x1="721" y1="265" x2="755" y2="265" stroke="#1769AA" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="767" y="214" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="767" y="214" width="8" height="102" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="791" y="239" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="791" dy="0">UVLS / process</tspan><tspan x="791" dy="36">selectivity</tspan></text>
+<line x1="1058" y1="265" x2="1092" y2="265" stroke="#1769AA" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="1104" y="214" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="1104" y="214" width="8" height="102" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1128" y="239" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1128" dy="0">阵列直采 + 动态量程</tspan><tspan x="1128" dy="36">+ 多通道</tspan></text>
+<line x1="1395" y1="265" x2="1429" y2="265" stroke="#1769AA" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="1441" y="214" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="1441" y="214" width="8" height="102" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1465" y="239" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1465" dy="0">sensor fusion /</tspan><tspan x="1465" dy="36">大视场 relay</tspan></text>
+<rect x="72" y="382" width="1656" height="150" rx="12" fill="#FFFFFF" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="72" y="382" width="8" height="150" rx="4" fill="#168AAD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="102" y="430" font-size="33" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">Nikon</text>
+<text x="102" y="481" font-size="21" font-weight="500" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">膜栈误差可观测、可补偿</text>
+<rect x="430" y="406" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="430" y="406" width="8" height="102" rx="4" fill="#168AAD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="454" y="431" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="454" dy="0">多点斜入射</tspan></text>
+<line x1="721" y1="457" x2="755" y2="457" stroke="#168AAD" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="767" y="406" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="767" y="406" width="8" height="102" rx="4" fill="#168AAD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="791" y="431" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="791" dy="0">反射率 / 环境补偿</tspan></text>
+<line x1="1058" y1="457" x2="1092" y2="457" stroke="#168AAD" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="1104" y="406" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="1104" y="406" width="8" height="102" rx="4" fill="#168AAD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1128" y="431" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1128" dy="0">多波长 × 偏振 /</tspan><tspan x="1128" dy="36">GH 补偿</tspan></text>
+<line x1="1395" y1="457" x2="1429" y2="457" stroke="#168AAD" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="1441" y="406" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="1441" y="406" width="8" height="102" rx="4" fill="#168AAD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1465" y="431" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1465" dy="0">pixel filtering /</tspan><tspan x="1465" dy="36">spatial multiplex</tspan></text>
+<rect x="72" y="574" width="1656" height="150" rx="12" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="72" y="574" width="8" height="150" rx="4" fill="#B7791F" stroke="none" stroke-width="0" opacity="1"/>
+<text x="102" y="622" font-size="33" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">Canon</text>
+<text x="102" y="673" font-size="21" font-weight="500" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">测量 → stage / scanning control</text>
+<rect x="430" y="598" width="391.3333333333333" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="430" y="598" width="8" height="102" rx="4" fill="#B7791F" stroke="none" stroke-width="0" opacity="1"/>
+<text x="454" y="623" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="454" dy="0">多点 / 多波长测量</tspan></text>
+<line x1="833.3333333333333" y1="649" x2="867.3333333333333" y2="649" stroke="#B7791F" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="879.3333333333333" y="598" width="391.3333333333333" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="879.3333333333333" y="598" width="8" height="102" rx="4" fill="#B7791F" stroke="none" stroke-width="0" opacity="1"/>
+<text x="903.3333333333333" y="623" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="903.3333333333333" dy="0">双工位基准</tspan><tspan x="903.3333333333333" dy="36">+ 多量程</tspan></text>
+<line x1="1282.6666666666665" y1="649" x2="1316.6666666666665" y2="649" stroke="#B7791F" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="1328.6666666666665" y="598" width="391.3333333333333" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="1328.6666666666665" y="598" width="8" height="102" rx="4" fill="#B7791F" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1352.6666666666665" y="623" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1352.6666666666665" dy="0">大区域 / 邻场测量</tspan><tspan x="1352.6666666666665" dy="36">+ scanning control</tspan></text>
+<rect x="72" y="766" width="1656" height="150" rx="12" fill="#FFFFFF" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="72" y="766" width="8" height="150" rx="4" fill="#52606D" stroke="none" stroke-width="0" opacity="1"/>
+<text x="102" y="814" font-size="33" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">SMEE / 中国研发</text>
+<text x="102" y="865" font-size="21" font-weight="500" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">光学头 → 多路系统集成</text>
+<rect x="430" y="790" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="430" y="790" width="8" height="102" rx="4" fill="#52606D" stroke="none" stroke-width="0" opacity="1"/>
+<text x="454" y="815" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="454" dy="0">宽谱 / 粗精测量</tspan></text>
+<line x1="721" y1="841" x2="755" y2="841" stroke="#52606D" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="767" y="790" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="767" y="790" width="8" height="102" rx="4" fill="#52606D" stroke="none" stroke-width="0" opacity="1"/>
+<text x="791" y="815" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="791" dy="0">工艺适应 / 归一化</tspan></text>
+<line x1="1058" y1="841" x2="1092" y2="841" stroke="#52606D" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="1104" y="790" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="1104" y="790" width="8" height="102" rx="4" fill="#52606D" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1128" y="815" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1128" dy="0">偏振差分 / 子光栅</tspan><tspan x="1128" dy="36">/ 漂移监测</tspan></text>
+<line x1="1395" y1="841" x2="1429" y2="841" stroke="#52606D" stroke-width="3" marker-end="url(#arrow-muted)" opacity="1"/>
+<rect x="1441" y="790" width="279" height="102" rx="12" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="1441" y="790" width="8" height="102" rx="4" fill="#52606D" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1465" y="815" font-size="24" font-weight="650" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1465" dy="0">多路同步 /</tspan><tspan x="1465" dy="36">数字解调</tspan></text>
+<text x="72" y="948" font-size="21" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">路线阶段相互重叠；数量不用于推导技术领先性。</text></svg>

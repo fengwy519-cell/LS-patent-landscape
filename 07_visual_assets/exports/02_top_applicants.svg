@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">主要申请人公开布局</title><desc id="desc">冻结样本中主要申请人的横向条形图。</desc>
+  <defs><style>text { font-family: 'Noto Sans SC','Noto LS Base','Noto LS Static','Noto LS Living','Noto LS Clocks','Noto LS Rail','Noto LS Zipper','Noto LS Open','Noto LS Light','Source Han Sans SC','Microsoft YaHei','Noto Sans',Arial,sans-serif; } .en { font-family: 'Noto Sans', Arial, sans-serif; }</style>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1769AA"/></marker>
+    <marker id="arrow-muted" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#627D98"/></marker>
+  </defs><rect x="0" y="0" width="1600" height="900" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0" opacity="1"/><text x="72" y="64" font-size="42" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="">统一检索样本中的主要申请人</text>
+<text x="72" y="116" font-size="24" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">公开专利布局强度 · Patent Family / invention-branch count</text>
+<line x1="72" y1="145" x2="1528" y2="145" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<text x="360" y="243" font-size="29" font-weight="700" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">SMEE</text>
+<rect x="390" y="215" width="1020" height="56" rx="6" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="390" y="215" width="971.4285714285713" height="56" rx="6" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1379.4285714285713" y="244" font-size="28" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">100</text>
+<text x="360" y="335" font-size="29" font-weight="600" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">ASML</text>
+<rect x="390" y="307" width="1020" height="56" rx="6" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="390" y="307" width="349.7142857142857" height="56" rx="6" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="757.7142857142858" y="336" font-size="28" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">36</text>
+<text x="360" y="427" font-size="29" font-weight="600" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">Canon</text>
+<rect x="390" y="399" width="1020" height="56" rx="6" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="390" y="399" width="223.42857142857142" height="56" rx="6" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="631.4285714285714" y="428" font-size="28" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">23</text>
+<text x="360" y="519" font-size="29" font-weight="600" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">Nikon</text>
+<rect x="390" y="491" width="1020" height="56" rx="6" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="390" y="491" width="165.14285714285714" height="56" rx="6" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="573.1428571428571" y="520" font-size="28" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">17</text>
+<text x="360" y="611" font-size="29" font-weight="600" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">Others</text>
+<rect x="390" y="583" width="1020" height="56" rx="6" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="390" y="583" width="116.57142857142857" height="56" rx="6" fill="#52606D" stroke="none" stroke-width="0" opacity="1"/>
+<text x="524.5714285714286" y="612" font-size="28" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">12</text>
+<text x="360" y="703" font-size="29" font-weight="600" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">CAS-related institutes</text>
+<rect x="390" y="675" width="1020" height="56" rx="6" fill="#F5F7FA" stroke="none" stroke-width="0" opacity="1"/>
+<rect x="390" y="675" width="68" height="56" rx="6" fill="#5B9ABD" stroke="none" stroke-width="0" opacity="1"/>
+<text x="476" y="704" font-size="28" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">7</text>
+<line x1="390" y1="190" x2="390" y2="775" stroke="#627D98" stroke-width="2" opacity="1"/>
+<text x="72" y="835" font-size="22" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">数量代表公开专利布局强度，不等同于技术领先性、有效权利要求数量或市场份额。</text></svg>

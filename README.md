@@ -16,6 +16,7 @@
 - [x] 完成 A/B/C 公布—授权、跨国家同族去重及 Applicant/Year 统计一致性审核
 - [x] 完成 Applicant × Year、Applicant × Technology 的可透视数据
 - [x] 将厂商路线、六个技术矛盾、五阶段演进和风险区域压缩为 1–2 页 PPT 输入
+- [x] 将冻结数据与结论导出为 7 组独立 SVG / PNG 立项可视化素材
 - [ ] 待具体 LS 架构和目标市场明确后，再启动逐国法律状态核验、claim chart 与正式 FTO
 
 ## 已确认的关键结论（阶段性）
@@ -49,6 +50,7 @@
 - [PPT 厂商路线矩阵](06_presentation/ppt_company_routes.md)
 - [PPT 技术难点与趋势](06_presentation/ppt_challenges_trends.md)
 - [PPT 风险提示](06_presentation/ppt_risk_summary.md)
+- [立项 PPT 可视化素材与使用说明](07_visual_assets/README.md)
 
 ## 仍待核验的问题
 

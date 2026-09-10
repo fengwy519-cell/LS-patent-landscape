@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="780" viewBox="0 0 1800 780" role="img" aria-labelledby="title desc">
+  <title id="title">LS 二十年技术演进主线</title><desc id="desc">从基础测高到大视场高吞吐 wafer 高度图和曝光协同的五阶段时间轴。</desc>
+  <defs><style>text { font-family: 'Noto Sans SC','Noto LS Base','Noto LS Static','Noto LS Living','Noto LS Clocks','Noto LS Rail','Noto LS Zipper','Noto LS Open','Noto LS Light','Source Han Sans SC','Microsoft YaHei','Noto Sans',Arial,sans-serif; } .en { font-family: 'Noto Sans', Arial, sans-serif; }</style>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1769AA"/></marker>
+    <marker id="arrow-muted" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#627D98"/></marker>
+  </defs><rect x="0" y="0" width="1800" height="780" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0" opacity="1"/><text x="72" y="64" font-size="42" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="">LS 20 年主线：技术矛盾推动测高走向曝光可用</text>
+<text x="72" y="116" font-size="24" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">阶段相互重叠，不表示后一阶段完全替代前一阶段</text>
+<line x1="72" y1="145" x2="1728" y2="145" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="68" y="205" width="300" height="382" rx="16" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<circle cx="114" cy="253" r="24" fill="#EAF3F8" stroke="#1769AA" stroke-width="2"/>
+<text x="114" y="254" font-size="24" font-weight="750" fill="#1769AA" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">1</text>
+<text x="150" y="254" font-size="21" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">2006–2009</text>
+<text x="96" y="311" font-size="29" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="96" dy="0">基础斜入射</tspan><tspan x="96" dy="43">/ 光栅测高</tspan></text>
+<line x1="96" y1="414" x2="340" y2="414" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<text x="96" y="447" font-size="20" font-weight="700" fill="#1769AA" text-anchor="start" dominant-baseline="middle" opacity="1" class="">主要解决</text>
+<text x="96" y="479" font-size="24" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="96" dy="0">建立稳定 Z 测量、</tspan><tspan x="96" dy="36">capture 与多点覆盖</tspan></text>
+<line x1="378" y1="396" x2="412" y2="396" stroke="#1769AA" stroke-width="3" marker-end="url(#arrow-blue)" opacity="1"/>
+<rect x="424" y="205" width="300" height="382" rx="16" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<circle cx="470" cy="253" r="24" fill="#EAF3F8" stroke="#1769AA" stroke-width="2"/>
+<text x="470" y="254" font-size="24" font-weight="750" fill="#1769AA" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2</text>
+<text x="506" y="254" font-size="21" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">2009–2013</text>
+<text x="452" y="311" font-size="29" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="452" dy="0">Process-aware：</tspan><tspan x="452" dy="43">光谱 / 偏振 / UV</tspan></text>
+<line x1="452" y1="414" x2="696" y2="414" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<text x="452" y="447" font-size="20" font-weight="700" fill="#1769AA" text-anchor="start" dominant-baseline="middle" opacity="1" class="">主要解决</text>
+<text x="452" y="479" font-size="24" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="452" dy="0">降低膜栈与亚表面反射</tspan><tspan x="452" dy="36">造成的表观高度偏差</tspan></text>
+<line x1="734" y1="396" x2="768" y2="396" stroke="#1769AA" stroke-width="3" marker-end="url(#arrow-blue)" opacity="1"/>
+<rect x="780" y="205" width="300" height="382" rx="16" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<circle cx="826" cy="253" r="24" fill="#EAF3F8" stroke="#1769AA" stroke-width="2"/>
+<text x="826" y="254" font-size="24" font-weight="750" fill="#1769AA" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">3</text>
+<text x="862" y="254" font-size="21" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">2011–2018</text>
+<text x="808" y="311" font-size="29" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="808" dy="0">多点 / 多量程</tspan><tspan x="808" dy="43">/ footprint</tspan></text>
+<line x1="808" y1="414" x2="1052" y2="414" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<text x="808" y="447" font-size="20" font-weight="700" fill="#1769AA" text-anchor="start" dominant-baseline="middle" opacity="1" class="">主要解决</text>
+<text x="808" y="479" font-size="24" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="808" dy="0">扩展空间覆盖、量程</tspan><tspan x="808" dy="36">与局部分辨率</tspan></text>
+<line x1="1090" y1="396" x2="1124" y2="396" stroke="#1769AA" stroke-width="3" marker-end="url(#arrow-blue)" opacity="1"/>
+<rect x="1136" y="205" width="300" height="382" rx="16" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<circle cx="1182" cy="253" r="24" fill="#EAF3F8" stroke="#1769AA" stroke-width="2"/>
+<text x="1182" y="254" font-size="24" font-weight="750" fill="#1769AA" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">4</text>
+<text x="1218" y="254" font-size="21" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">2016–2021</text>
+<text x="1164" y="311" font-size="29" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1164" dy="0">阵列化 / 数字解调</tspan><tspan x="1164" dy="43">/ 在线校准</tspan></text>
+<line x1="1164" y1="414" x2="1408" y2="414" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<text x="1164" y="447" font-size="20" font-weight="700" fill="#1769AA" text-anchor="start" dominant-baseline="middle" opacity="1" class="">主要解决</text>
+<text x="1164" y="479" font-size="24" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1164" dy="0">提升速度、通道密度</tspan><tspan x="1164" dy="36">与长期一致性</tspan></text>
+<line x1="1446" y1="396" x2="1480" y2="396" stroke="#1769AA" stroke-width="3" marker-end="url(#arrow-blue)" opacity="1"/>
+<rect x="1492" y="205" width="300" height="382" rx="16" fill="#EAF3F8" stroke="#1769AA" stroke-width="2" opacity="1"/>
+<circle cx="1538" cy="253" r="24" fill="#1769AA" stroke="#1769AA" stroke-width="2"/>
+<text x="1538" y="254" font-size="24" font-weight="750" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">5</text>
+<text x="1574" y="254" font-size="21" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="en">2021–2024</text>
+<text x="1520" y="311" font-size="29" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1520" dy="0">大视场 / 高吞吐</tspan><tspan x="1520" dy="43">wafer map / 曝光协同</tspan></text>
+<line x1="1520" y1="414" x2="1764" y2="414" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<text x="1520" y="447" font-size="20" font-weight="700" fill="#1769AA" text-anchor="start" dominant-baseline="middle" opacity="1" class="">主要解决</text>
+<text x="1520" y="479" font-size="24" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1520" dy="0">把可靠高度图嵌入</tspan><tspan x="1520" dy="36">扫描节拍与曝光控制</tspan></text>
+<text x="900" y="666" font-size="28" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">几何可测  →  工艺可信  →  覆盖与量程  →  集成与校准  →  曝光控制可用</text>
+<text x="72" y="739" font-size="21" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">技术主线来自冻结 patent-family 证据的归并；不是按单件专利排列的时间轴。</text></svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1040" viewBox="0 0 1800 1040" role="img" aria-labelledby="title desc">
+  <title id="title">LS 六个核心技术矛盾</title><desc id="desc">六个系统级技术矛盾的二乘三信息卡片矩阵。</desc>
+  <defs><style>text { font-family: 'Noto Sans SC','Noto LS Base','Noto LS Static','Noto LS Living','Noto LS Clocks','Noto LS Rail','Noto LS Zipper','Noto LS Open','Noto LS Light','Source Han Sans SC','Microsoft YaHei','Noto Sans',Arial,sans-serif; } .en { font-family: 'Noto Sans', Arial, sans-serif; }</style>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1769AA"/></marker>
+    <marker id="arrow-muted" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#627D98"/></marker>
+  </defs><rect x="0" y="0" width="1800" height="1040" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0" opacity="1"/><text x="72" y="64" font-size="42" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="">LS 的六个核心技术矛盾</text>
+<text x="72" y="116" font-size="24" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">真正难点不在单一精度，而在六组系统级权衡</text>
+<line x1="72" y1="145" x2="1728" y2="145" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="70" y="185" width="532" height="365" rx="16" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="70" y="185" width="8" height="365" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<circle cx="120" cy="233" r="23" fill="#EAF3F8" stroke="#1769AA" stroke-width="2"/>
+<text x="120" y="234" font-size="22" font-weight="750" fill="#1769AA" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">1</text>
+<text x="154" y="227" font-size="27" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="alphabetic" opacity="1" class="en">Process dependency</text>
+<text x="154" y="257" font-size="20" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">工艺依赖</text>
+<text x="100" y="306" font-size="19" font-weight="700" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">为什么难</text>
+<text x="100" y="336" font-size="23" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="100" dy="0">多层膜混合反射把工艺变化</tspan><tspan x="100" dy="33">转化为表观高度误差</tspan></text>
+<rect x="100" y="409" width="92" height="31" rx="7" fill="#EAF3F8" stroke="none" stroke-width="0" opacity="1"/>
+<text x="146" y="425" font-size="18" font-weight="700" fill="#1769AA" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">主流方向</text>
+<text x="100" y="459" font-size="23" font-weight="600" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="100" dy="0">光谱 / 偏振补偿</tspan><tspan x="100" dy="33">+ UV / DUV 表面选择性</tspan></text>
+<rect x="634" y="185" width="532" height="365" rx="16" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="634" y="185" width="8" height="365" rx="4" fill="#168AAD" stroke="none" stroke-width="0" opacity="1"/>
+<circle cx="684" cy="233" r="23" fill="#E9F5F5" stroke="#168AAD" stroke-width="2"/>
+<text x="684" y="234" font-size="22" font-weight="750" fill="#168AAD" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2</text>
+<text x="718" y="227" font-size="27" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="alphabetic" opacity="1" class="en">Resolution / SNR / Throughput</text>
+<text x="718" y="257" font-size="20" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">分辨率、信噪比与吞吐</text>
+<text x="664" y="306" font-size="19" font-weight="700" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">为什么难</text>
+<text x="664" y="336" font-size="23" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="664" dy="0">小 footprint 减少光子数，</tspan><tspan x="664" dy="33">高密度 map 又受节拍限制</tspan></text>
+<rect x="664" y="409" width="92" height="31" rx="7" fill="#E9F5F5" stroke="none" stroke-width="0" opacity="1"/>
+<text x="710" y="425" font-size="18" font-weight="700" fill="#168AAD" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">主流方向</text>
+<text x="664" y="459" font-size="23" font-weight="600" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="664" dy="0">多点 / 线扫 / 阵列</tspan><tspan x="664" dy="33">+ 大视场邻场测量</tspan></text>
+<rect x="1198" y="185" width="532" height="365" rx="16" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="1198" y="185" width="8" height="365" rx="4" fill="#B7791F" stroke="none" stroke-width="0" opacity="1"/>
+<circle cx="1248" cy="233" r="23" fill="#FFF7E6" stroke="#B7791F" stroke-width="2"/>
+<text x="1248" y="234" font-size="22" font-weight="750" fill="#B7791F" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">3</text>
+<text x="1282" y="227" font-size="27" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="alphabetic" opacity="1" class="en">Sensitivity / Dynamic Range</text>
+<text x="1282" y="257" font-size="20" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">灵敏度与动态量程</text>
+<text x="1228" y="306" font-size="19" font-weight="700" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">为什么难</text>
+<text x="1228" y="336" font-size="23" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1228" dy="0">纳米灵敏度与 wafer bow、边缘、</tspan><tspan x="1228" dy="33">大高度变化的 capture range 相冲突</tspan></text>
+<rect x="1228" y="409" width="92" height="31" rx="7" fill="#FFF7E6" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1274" y="425" font-size="18" font-weight="700" fill="#B7791F" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">主流方向</text>
+<text x="1228" y="459" font-size="23" font-weight="600" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1228" dy="0">粗精双支路 + capture</tspan><tspan x="1228" dy="33">/ 可变 footprint</tspan></text>
+<rect x="70" y="579" width="532" height="365" rx="16" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="70" y="579" width="8" height="365" rx="4" fill="#52606D" stroke="none" stroke-width="0" opacity="1"/>
+<circle cx="120" cy="627" r="23" fill="#EEF2F6" stroke="#52606D" stroke-width="2"/>
+<text x="120" y="628" font-size="22" font-weight="750" fill="#52606D" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">4</text>
+<text x="154" y="621" font-size="27" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="alphabetic" opacity="1" class="en">Multichannel Consistency</text>
+<text x="154" y="651" font-size="20" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">多通道一致性与标定</text>
+<text x="100" y="700" font-size="19" font-weight="700" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">为什么难</text>
+<text x="100" y="730" font-size="23" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="100" dy="0">gain、phase、zero、几何位置</tspan><tspan x="100" dy="33">与热漂移难以长期一致</tspan></text>
+<rect x="100" y="803" width="92" height="31" rx="7" fill="#EEF2F6" stroke="none" stroke-width="0" opacity="1"/>
+<text x="146" y="819" font-size="18" font-weight="700" fill="#52606D" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">主流方向</text>
+<text x="100" y="853" font-size="23" font-weight="600" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="100" dy="0">参考通道、归一化、</tspan><tspan x="100" dy="33">主动校准与单体化</tspan></text>
+<rect x="634" y="579" width="532" height="365" rx="16" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="634" y="579" width="8" height="365" rx="4" fill="#1769AA" stroke="none" stroke-width="0" opacity="1"/>
+<circle cx="684" cy="627" r="23" fill="#EAF3F8" stroke="#1769AA" stroke-width="2"/>
+<text x="684" y="628" font-size="22" font-weight="750" fill="#1769AA" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">5</text>
+<text x="718" y="621" font-size="27" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="alphabetic" opacity="1" class="en">Environment / Stage Dynamics</text>
+<text x="718" y="651" font-size="20" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">环境与运动动态</text>
+<text x="664" y="700" font-size="19" font-weight="700" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">为什么难</text>
+<text x="664" y="730" font-size="23" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="664" dy="0">空气光程、热、振动与同步</tspan><tspan x="664" dy="33">把静态误差变成动态误差</tspan></text>
+<rect x="664" y="803" width="92" height="31" rx="7" fill="#EAF3F8" stroke="none" stroke-width="0" opacity="1"/>
+<text x="710" y="819" font-size="18" font-weight="700" fill="#1769AA" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">主流方向</text>
+<text x="664" y="853" font-size="23" font-weight="600" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="664" dy="0">差分 / 温压补偿</tspan><tspan x="664" dy="33">+ 同步采样 / 运动监测</tspan></text>
+<rect x="1198" y="579" width="532" height="365" rx="16" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<rect x="1198" y="579" width="8" height="365" rx="4" fill="#168AAD" stroke="none" stroke-width="0" opacity="1"/>
+<circle cx="1248" cy="627" r="23" fill="#E9F5F5" stroke="#168AAD" stroke-width="2"/>
+<text x="1248" y="628" font-size="22" font-weight="750" fill="#168AAD" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">6</text>
+<text x="1282" y="621" font-size="27" font-weight="750" fill="#102A43" text-anchor="start" dominant-baseline="alphabetic" opacity="1" class="en">Wafer Map System Integration</text>
+<text x="1282" y="651" font-size="20" font-weight="600" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">高度图与曝光系统集成</text>
+<text x="1228" y="700" font-size="19" font-weight="700" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">为什么难</text>
+<text x="1228" y="730" font-size="23" font-weight="500" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1228" dy="0">单点 Z 必须变成低延迟、可信、</tspan><tspan x="1228" dy="33">可供曝光使用的 wafer map</tspan></text>
+<rect x="1228" y="803" width="92" height="31" rx="7" fill="#E9F5F5" stroke="none" stroke-width="0" opacity="1"/>
+<text x="1274" y="819" font-size="18" font-weight="700" fill="#168AAD" text-anchor="middle" dominant-baseline="middle" opacity="1" class="">主流方向</text>
+<text x="1228" y="853" font-size="23" font-weight="600" fill="#243B53" text-anchor="start" dominant-baseline="hanging" opacity="1"><tspan x="1228" dy="0">预扫描 / 逐场拟合</tspan><tspan x="1228" dy="33">+ 传感融合 / 自适应布点</tspan></text>
+<text x="72" y="1007" font-size="20" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">来源：06_presentation/ppt_challenges_trends.md；为立项评审压缩表达，不含专利号。</text></svg>

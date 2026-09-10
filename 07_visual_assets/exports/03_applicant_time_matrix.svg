@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">主要厂商布局时间分布</title><desc id="desc">主要申请人在四个时间段的冻结样本记录数矩阵。</desc>
+  <defs><style>text { font-family: 'Noto Sans SC','Noto LS Base','Noto LS Static','Noto LS Living','Noto LS Clocks','Noto LS Rail','Noto LS Zipper','Noto LS Open','Noto LS Light','Source Han Sans SC','Microsoft YaHei','Noto Sans',Arial,sans-serif; } .en { font-family: 'Noto Sans', Arial, sans-serif; }</style>
+    <marker id="arrow-blue" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1769AA"/></marker>
+    <marker id="arrow-muted" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#627D98"/></marker>
+  </defs><rect x="0" y="0" width="1600" height="900" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0" opacity="1"/><text x="72" y="64" font-size="42" font-weight="700" fill="#102A43" text-anchor="start" dominant-baseline="middle" opacity="1" class="">主要厂商在什么时期持续布局？</text>
+<text x="72" y="116" font-size="24" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">Applicant × earliest-priority period · 单元格为冻结样本记录数</text>
+<line x1="72" y1="145" x2="1528" y2="145" stroke="#D9E2EC" stroke-width="2" opacity="1"/>
+<text x="554" y="194" font-size="27" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2006–2010</text>
+<text x="802" y="194" font-size="27" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2011–2015</text>
+<text x="1050" y="194" font-size="27" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2016–2020</text>
+<text x="1298" y="194" font-size="27" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2021–2024</text>
+<text x="392" y="290" font-size="30" font-weight="700" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">SMEE</text>
+<rect x="435" y="243" width="238" height="94" rx="10" fill="#5f98c5" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="554" y="290" font-size="34" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">26</text>
+<rect x="683" y="243" width="238" height="94" rx="10" fill="#1769aa" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="802" y="290" font-size="34" font-weight="700" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">48</text>
+<rect x="931" y="243" width="238" height="94" rx="10" fill="#7eacd0" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="1050" y="290" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">18</text>
+<rect x="1179" y="243" width="238" height="94" rx="10" fill="#accae1" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="1298" y="290" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">8</text>
+<text x="392" y="394" font-size="30" font-weight="700" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">ASML</text>
+<rect x="435" y="347" width="238" height="94" rx="10" fill="#b1cee3" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="554" y="394" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">7</text>
+<rect x="683" y="347" width="238" height="94" rx="10" fill="#bdd5e7" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="802" y="394" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">5</text>
+<rect x="931" y="347" width="238" height="94" rx="10" fill="#a6c7df" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="1050" y="394" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">9</text>
+<rect x="1179" y="347" width="238" height="94" rx="10" fill="#8ab4d5" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="1298" y="394" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">15</text>
+<text x="392" y="498" font-size="30" font-weight="700" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">Canon</text>
+<rect x="435" y="451" width="238" height="94" rx="10" fill="#8fb7d6" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="554" y="498" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">14</text>
+<rect x="683" y="451" width="238" height="94" rx="10" fill="#cadeec" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="802" y="498" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">3</text>
+<rect x="931" y="451" width="238" height="94" rx="10" fill="#d2e3ef" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="1050" y="498" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2</text>
+<rect x="1179" y="451" width="238" height="94" rx="10" fill="#c3daea" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="1298" y="498" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">4</text>
+<text x="392" y="602" font-size="30" font-weight="700" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">Nikon</text>
+<rect x="435" y="555" width="238" height="94" rx="10" fill="#a6c7df" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="554" y="602" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">9</text>
+<rect x="683" y="555" width="238" height="94" rx="10" fill="#b1cee3" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="802" y="602" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">7</text>
+<rect x="931" y="555" width="238" height="94" rx="10" fill="#dbe9f2" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="1050" y="602" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">1</text>
+<rect x="1179" y="555" width="238" height="94" rx="10" fill="#F5F7FA" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="1298" y="602" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">0</text>
+<text x="392" y="706" font-size="30" font-weight="700" fill="#243B53" text-anchor="end" dominant-baseline="middle" opacity="1" class="en">CAS</text>
+<rect x="435" y="659" width="238" height="94" rx="10" fill="#F5F7FA" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="554" y="706" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">0</text>
+<rect x="683" y="659" width="238" height="94" rx="10" fill="#c3daea" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="802" y="706" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">4</text>
+<rect x="931" y="659" width="238" height="94" rx="10" fill="#dbe9f2" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="1050" y="706" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">1</text>
+<rect x="1179" y="659" width="238" height="94" rx="10" fill="#d2e3ef" stroke="#FFFFFF" stroke-width="2" opacity="1"/>
+<text x="1298" y="706" font-size="34" font-weight="700" fill="#102A43" text-anchor="middle" dominant-baseline="middle" opacity="1" class="en">2</text>
+<text x="72" y="815" font-size="22" font-weight="400" fill="#627D98" text-anchor="start" dominant-baseline="middle" opacity="1" class="">数字直接显示；色深仅帮助定位高密度时期，不替代数值读取。CAS = 中国科学院相关机构。</text></svg>
