@@ -4,6 +4,10 @@
 
 > 状态日期：2026-09-09。当前为 **v0.2 立项材料收敛版 / PPT-DATA-FROZEN-v1**。法律状态栏是检索时点的初筛结果；在 Preliminary FTO 使用前，必须到相应司法辖区官方登记簿逐案复核。
 
+## 背景与市场补充（独立分支）
+
+`project-background-market` 分支已整理背景 1–2 页与市场 1 页的内容、官方证据和数据（2026-09-11）。[三页内容方案](08_project_background_market/ppt_content_plan.md) · [LS 背景](08_project_background_market/ls_background.md) · [市场分析](08_project_background_market/market_analysis.md) · [市场数据](08_project_background_market/market_data.csv) · [来源与口径](08_project_background_market/sources.md)。公开资料未单列可核验的 LS 市场规模，采用整机销量和行业设备统计作为需求代理。尚未制作本阶段 PPT 或图片；冻结专利数据保持不变。
+
 ## 当前进度
 
 - [x] 阅读并吸收三个开源专利分析项目的方法
