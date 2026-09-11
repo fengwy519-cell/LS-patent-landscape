@@ -17,6 +17,7 @@
 - [x] 完成 Applicant × Year、Applicant × Technology 的可透视数据
 - [x] 将厂商路线、六个技术矛盾、五阶段演进和风险区域压缩为 1–2 页 PPT 输入
 - [x] 将冻结数据与结论导出为 7 组独立 SVG / PNG 立项可视化素材
+- [x] 汇总全量专利索引：207 行整理记录、246 个完整专利号，覆盖冻结样本、核心库及 Claim 矩阵；3 组候选同族关系待确认
 - [ ] 待具体 LS 架构和目标市场明确后，再启动逐国法律状态核验、claim chart 与正式 FTO
 
 ## 已确认的关键结论（阶段性）
@@ -37,6 +38,7 @@
 - [检索策略与同义词](01_search/search_strategy.md)
 - [检索记录](01_search/search_log.csv)
 - [核心 Patent Family 数据库](02_data/patent_families.csv)
+- [全量专利索引：按厂商及优先权时间排序](02_data/all_patent_index.csv)（用途、字段及覆盖审计见[数据字典](02_data/data_dictionary.md#全量专利索引)）
 - [数据字典与证据等级](02_data/data_dictionary.md)
 - [厂商技术路线](03_analysis/company_routes.md)
 - [UVLS 专项](03_analysis/uvls_deep_dive.md)
