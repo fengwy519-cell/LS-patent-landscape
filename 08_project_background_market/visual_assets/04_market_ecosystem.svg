@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="900" height="520" fill="#FFFFFF"/>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563EB"/></marker>
+  <marker id="arrowGray" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker>
+  <style><![CDATA[
+    text { font-family:'Noto Sans CJK SC','Microsoft YaHei','PingFang SC','Arial',sans-serif; }
+    .title { font-size:30px; font-weight:700; fill:#1F2937; }
+    .label { font-size:23px; font-weight:700; fill:#1F2937; }
+    .small { font-size:18px; fill:#667085; }
+    .tiny { font-size:15px; fill:#667085; }
+  ]]></style>
+</defs>
+<text x="45" y="45" class="small">LS 的商业机会取决于进入整机控制闭环，而不是按独立仪器市场理解</text>
+<!-- left ecosystem -->
+<text x="45" y="92" class="label">参与者角色</text>
+<rect x="45" y="115" width="390" height="110" rx="22" fill="#EAF2FF" stroke="#2563EB" stroke-width="2"/>
+<text x="70" y="153" class="small">整机 / 集成</text><text x="70" y="195" class="label">ASML  ·  Nikon  ·  Canon  ·  SMEE</text>
+<rect x="45" y="245" width="390" height="85" rx="20" fill="#F1F5F9"/>
+<text x="70" y="279" class="small">上游光学</text><text x="70" y="309" class="label">ZEISS</text>
+<rect x="45" y="350" width="390" height="85" rx="20" fill="#F1F5F9"/>
+<text x="70" y="384" class="small">国内研发</text><text x="70" y="414" class="label">中科院相关机构等</text>
+<text x="45" y="472" class="tiny">角色不同，不以专利数量推导份额；不绘制未经确认的供货关系</text>
+<!-- right barriers -->
+<text x="510" y="92" class="label">进入整机闭环的 3 道门槛</text>
+<rect x="510" y="115" width="345" height="92" rx="20" fill="#FFFFFF" stroke="#0F8FA8" stroke-width="2.5"/>
+<text x="535" y="151" class="label">工艺适应</text><text x="535" y="182" class="small">复杂膜系下仍输出可信高度</text>
+<rect x="510" y="227" width="345" height="92" rx="20" fill="#FFFFFF" stroke="#0F8FA8" stroke-width="2.5"/>
+<text x="535" y="263" class="label">长期稳定与标定</text><text x="535" y="294" class="small">跨通道、跨时间保持一致</text>
+<rect x="510" y="339" width="345" height="92" rx="20" fill="#2563EB"/>
+<text x="535" y="375" class="label" style="fill:#FFFFFF">平台控制与整机验证</text><text x="535" y="406" class="small" style="fill:#EAF2FF">真正决定是否能进入产品</text>
+<line x1="470" y1="110" x2="470" y2="445" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="8 8"/>
+
+</svg>

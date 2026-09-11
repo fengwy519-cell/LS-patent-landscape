@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="720" viewBox="0 0 1500 720">
+<rect width="1500" height="720" fill="#FFFFFF"/>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563EB"/></marker>
+  <marker id="arrowGray" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker>
+  <style><![CDATA[
+    text { font-family:'Noto Sans CJK SC','Microsoft YaHei','PingFang SC','Arial',sans-serif; }
+    .title { font-size:30px; font-weight:700; fill:#1F2937; }
+    .label { font-size:23px; font-weight:700; fill:#1F2937; }
+    .small { font-size:18px; fill:#667085; }
+    .tiny { font-size:15px; fill:#667085; }
+  ]]></style>
+</defs>
+<text x="750" y="48" text-anchor="middle" class="small">多个约束必须同时满足，最终输出才能进入曝光控制</text>
+<!-- center target -->
+<circle cx="750" cy="365" r="125" fill="#EAF2FF" stroke="#2563EB" stroke-width="3"/>
+<text x="750" y="345" text-anchor="middle" class="label">可信晶圆面形</text>
+<text x="750" y="382" text-anchor="middle" class="small">可用于曝光控制</text>
+<text x="750" y="414" text-anchor="middle" class="tiny">不是“测到高度”就够了</text>
+<!-- cards around center, varied shapes/positions -->
+<rect x="80" y="90" width="390" height="145" rx="22" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
+<text x="110" y="132" class="label">1  表面复杂</text><text x="110" y="168" class="small">真实高度变化  vs  膜层表观误差</text><text x="110" y="202" class="tiny">能力：真实起伏识别 + 工艺误差抑制</text>
+<rect x="1030" y="90" width="390" height="145" rx="22" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
+<text x="1060" y="132" class="label">2  范围与精度</text><text x="1060" y="168" class="small">宽量程  vs  高灵敏度</text><text x="1060" y="202" class="tiny">能力：粗精结合 / 多量程 / 动态参考</text>
+<rect x="65" y="500" width="430" height="145" rx="22" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
+<text x="95" y="542" class="label">3  分辨率与测量效率</text><text x="95" y="578" class="small">空间信息更丰富  vs  信号与整片时间压力</text><text x="95" y="612" class="tiny">能力：多点 / 线扫 / 阵列 / 并行</text>
+<rect x="1005" y="500" width="430" height="145" rx="22" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
+<text x="1035" y="542" class="label">4  长期一致性</text><text x="1035" y="578" class="small">多通道差异 + 热漂移随时间变化</text><text x="1035" y="612" class="tiny">能力：参考 / 归一化 / 在线标定 / 漂移监测</text>
+<rect x="555" y="555" width="390" height="120" rx="22" fill="#E8F7FA" stroke="#0F8FA8" stroke-width="2.5"/>
+<text x="750" y="597" text-anchor="middle" class="label">5  运动与控制</text><text x="750" y="632" text-anchor="middle" class="small">时间、坐标、平台位置必须对应</text><text x="750" y="659" text-anchor="middle" class="tiny">能力：同步采样 + 动态补偿 + 控制协同</text>
+<!-- convergence paths -->
+<path d="M470 190 C590 220, 610 255, 650 285" fill="none" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M1030 190 C910 220, 890 255, 850 285" fill="none" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M495 545 C590 520, 620 480, 650 445" fill="none" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M1005 545 C910 520, 880 480, 850 445" fill="none" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M750 555 L750 500" fill="none" stroke="#0F8FA8" stroke-width="3" marker-end="url(#arrow)"/>
+<!-- footer line -->
+<text x="750" y="704" text-anchor="middle" class="tiny">建议不放整机生产率数字；如需口头补充，可引用 Canon &gt;200 片/小时的带条件整机示例</text>
+
+</svg>
