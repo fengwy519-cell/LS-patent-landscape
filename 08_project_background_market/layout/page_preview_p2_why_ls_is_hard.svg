@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" font-family="'Noto Sans CJK SC','Source Han Sans SC','Microsoft YaHei','PingFang SC','WenQuanYi Zen Hei',sans-serif">
+<rect x="0" y="0" width="1600" height="900" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="0" y="0" width="1600" height="900" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="64" y="44" width="5" height="40" rx="2.5" fill="#2563EB" stroke="none" stroke-width="1"/>
+<text x="84" y="78" font-size="40" fill="#111827" font-weight="700" text-anchor="start">LS 为什么难</text>
+<text x="1536" y="76" font-size="16" fill="#94A3B8" font-weight="400" text-anchor="end">背景 · 2 / 3</text>
+<line x1="64" y1="100" x2="1536" y2="100" stroke="#E2E8F0" stroke-width="1.4"/>
+<text x="64" y="152" font-size="22" fill="#1D4ED8" font-weight="700" text-anchor="start">难点不是“能不能测到高度”，而是在复杂工艺与高速曝光下，持续输出可信、稳定、可用于曝光控制的晶圆面形。</text>
+<svg x="64" y="188" width="1472" height="640" viewBox="0 0 1472 640"><defs>
+  <marker id="pv20arrB" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#2563EB"/></marker>
+  <marker id="pv20arrT" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#0D9488"/></marker>
+  <marker id="pv20arrG" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#94A3B8"/></marker>
+  <marker id="pv20arrA" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#B45309"/></marker>
+  <marker id="pv20arrO" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#EA580C"/></marker>
+  <marker id="pv20dotB" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5"><circle cx="3.5" cy="3.5" r="3" fill="#2563EB"/></marker>
+</defs>
+<rect x="26" y="24" width="764" height="100" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="26" y="24" width="5" height="100" rx="2.5" fill="#2563EB" stroke="none" stroke-width="1"/>
+<circle cx="62" cy="62" r="15" fill="#2563EB" stroke="none" stroke-width="1"/><text x="62" y="67.4" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+<text x="92" y="66" font-size="24" fill="#111827" font-weight="700" text-anchor="start">表面与膜层复杂</text>
+<text x="92" y="100" font-size="19" fill="#334155" font-weight="400" text-anchor="start">要覆盖翘曲起伏，又要抑制膜层虚假高度</text>
+<rect x="505" y="50" width="270" height="48" rx="8" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.2"/>
+<text x="640" y="80" font-size="16" fill="#1D4ED8" font-weight="400" text-anchor="middle">波段与偏振选择、工艺补偿</text>
+<rect x="26" y="133" width="764" height="100" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="26" y="133" width="5" height="100" rx="2.5" fill="#2563EB" stroke="none" stroke-width="1"/>
+<circle cx="62" cy="171" r="15" fill="#2563EB" stroke="none" stroke-width="1"/><text x="62" y="176.4" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<text x="92" y="175" font-size="24" fill="#111827" font-weight="700" text-anchor="start">精度与量程</text>
+<text x="92" y="209" font-size="19" fill="#334155" font-weight="400" text-anchor="start">大起伏要捕获得到，小变化要分辨得清</text>
+<rect x="505" y="159" width="270" height="48" rx="8" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.2"/>
+<text x="640" y="189" font-size="16" fill="#1D4ED8" font-weight="400" text-anchor="middle">粗精结合、量程切换与交叉标定</text>
+<rect x="26" y="242" width="764" height="100" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="26" y="242" width="5" height="100" rx="2.5" fill="#2563EB" stroke="none" stroke-width="1"/>
+<circle cx="62" cy="280" r="15" fill="#2563EB" stroke="none" stroke-width="1"/><text x="62" y="285.4" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+<text x="92" y="284" font-size="24" fill="#111827" font-weight="700" text-anchor="start">分辨率与测量效率</text>
+<text x="92" y="318" font-size="19" fill="#334155" font-weight="400" text-anchor="start">测量区域要小、信息要密，整片时间不能拖长</text>
+<rect x="505" y="268" width="270" height="48" rx="8" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.2"/>
+<text x="640" y="298" font-size="16" fill="#1D4ED8" font-weight="400" text-anchor="middle">多点并行测量、合理光预算</text>
+<rect x="26" y="351" width="764" height="100" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="26" y="351" width="5" height="100" rx="2.5" fill="#2563EB" stroke="none" stroke-width="1"/>
+<circle cx="62" cy="389" r="15" fill="#2563EB" stroke="none" stroke-width="1"/><text x="62" y="394.4" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">4</text>
+<text x="92" y="393" font-size="24" fill="#111827" font-weight="700" text-anchor="start">多通道长期稳定</text>
+<text x="92" y="427" font-size="19" fill="#334155" font-weight="400" text-anchor="start">多通道之间有差异，温度与光路还会漂移</text>
+<rect x="505" y="377" width="270" height="48" rx="8" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.2"/>
+<text x="640" y="407" font-size="16" fill="#1D4ED8" font-weight="400" text-anchor="middle">共同基准、通道校准与漂移监测</text>
+<rect x="26" y="460" width="764" height="100" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="26" y="460" width="5" height="100" rx="2.5" fill="#2563EB" stroke="none" stroke-width="1"/>
+<circle cx="62" cy="498" r="15" fill="#2563EB" stroke="none" stroke-width="1"/><text x="62" y="503.4" font-size="15" fill="#FFFFFF" font-weight="700" text-anchor="middle">5</text>
+<text x="92" y="502" font-size="24" fill="#111827" font-weight="700" text-anchor="start">高速运动与控制协同</text>
+<text x="92" y="536" font-size="19" fill="#334155" font-weight="400" text-anchor="start">平台高速扫描，采样时刻与坐标必须对应</text>
+<rect x="505" y="486" width="270" height="48" rx="8" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.2"/>
+<text x="640" y="516" font-size="16" fill="#1D4ED8" font-weight="400" text-anchor="middle">时间同步、动态误差预算</text>
+<path d="M 794 74 C 835 74 835 292 870 292" fill="none" stroke="#0D9488" stroke-width="1.8" marker-end="url(#pv20arrT)"/>
+<path d="M 794 183 C 835 183 835 292 870 292" fill="none" stroke="#0D9488" stroke-width="1.8" marker-end="url(#pv20arrT)"/>
+<path d="M 794 292 C 835 292 835 292 870 292" fill="none" stroke="#0D9488" stroke-width="1.8" marker-end="url(#pv20arrT)"/>
+<path d="M 794 401 C 835 401 835 292 870 292" fill="none" stroke="#0D9488" stroke-width="1.8" marker-end="url(#pv20arrT)"/>
+<path d="M 794 510 C 835 510 835 292 870 292" fill="none" stroke="#0D9488" stroke-width="1.8" marker-end="url(#pv20arrT)"/>
+<rect x="880" y="172" width="566" height="240" rx="14" fill="#ECFDF7" stroke="#0D9488" stroke-width="2.4"/>
+<text x="912" y="210" font-size="15" fill="#0D9488" font-weight="700" text-anchor="start">输出目标</text>
+<text x="912" y="258" font-size="32" fill="#0F766E" font-weight="700" text-anchor="start">可信、稳定的晶圆面形</text>
+<text x="912" y="292" font-size="21" fill="#334155" font-weight="400" text-anchor="start">并且能够直接用于曝光控制</text>
+<line x1="912" y1="316" x2="1414" y2="316" stroke="#99E2D5" stroke-width="1.4"/>
+<text x="912" y="350" font-size="18" fill="#111827" font-weight="400" text-anchor="start">难点不在于“能不能测到高度”，</text>
+<text x="912" y="378" font-size="18" fill="#111827" font-weight="400" text-anchor="start">而在于能否持续输出这样的面形。</text>
+<rect x="26" y="578" width="1420" height="54" rx="8" fill="#FFFBEB" stroke="#FCD9A0" stroke-width="1.2"/>
+<rect x="26" y="578" width="5" height="54" rx="2.5" fill="#B45309" stroke="none" stroke-width="1"/>
+<text x="48" y="602" font-size="16" fill="#92400E" font-weight="700" text-anchor="start">节拍参照：Canon FPA-6300ES6a 标称整机生产率 &gt;200 片/小时（300 mm 晶圆、每片 98 个曝光场、含选件）。</text>
+<text x="48" y="623" font-size="14" fill="#B45309" font-weight="400" text-anchor="start">这是整机生产率示例，不是 LS 采样速度，也不是本项目验收指标。[S06]</text></svg>
+<line x1="64" y1="846" x2="1536" y2="846" stroke="#E2E8F0" stroke-width="1"/>
+<text x="64" y="868" font-size="14" fill="#94A3B8" font-weight="400" text-anchor="start">约束归纳依据现有冻结研究，不代表本项目已选定实现路线；图中节拍数字为整机生产率示例，不是 LS 指标。[S04, S06, S07, S09]</text>
+</svg>

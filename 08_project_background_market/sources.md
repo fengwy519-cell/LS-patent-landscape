@@ -15,7 +15,6 @@
 | S07 | [SMEE：SSX600](https://www.smee.com.cn/eis.pub?method=indexinfo&onclicknodeno=1_4_1_1&service=homepageService)，页面未标日期 | 工艺自适应调焦调平、六自由度平台等公开整机能力 | 不证明未公开订单、外售 LS 业务或先进节点量产 |
 | S08 | [ZEISS SMT：Products](https://www.zeiss.com/semiconductor-manufacturing-technology/products.html)，页面未标日期 | 光刻光学、激光光学、光学系统等上游角色 | 不证明具体 LS 完整供货关系 |
 | S09 | 项目既有：[技术难点](../03_analysis/challenges_and_trends.md)、[厂商路线](../03_analysis/company_routes.md)、[UVLS](../03_analysis/uvls_deep_dive.md)、[论文证据说明](../00_methodology/source_notes.md) | 测高物理机制、误差类型、国内研究力量及功能链归纳 | 是已完成研究的复用，不把专利公开方案视为量产证明；不重复法律核验 |
-
 | S10 | [Nikon FY2026/3 Financial and Business Data](https://www.nikon.com/content/dam/web-assets/nikoncom/company/local/global/en/ir/ir_library/result/pdf/2026/26_4qf_d_e.pdf)，2026-05-08，第1页第4表 | 2025/3与2026/3新机18/22、翻新10/5、合计28/27；核对原表列位置 | 半导体设备与FPD分列；财年不是自然年；不纳入市场份额 |
 | S11 | [Canon FY2025 财务结果](https://global.canon/en/ir/results/2025/rslt2025e.pdf)，2026-01-29，PDF第7页 | 先进后道光刻增长、部分应用需求偏弱；工业业务多品类 | 不等同前道光刻销量或收入；未据此生成市场规模 |
 

@@ -1,25 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
-<rect width="900" height="320" fill="#FFFFFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1472" height="160" viewBox="0 0 1472 160" font-family="'Noto Sans CJK SC','Source Han Sans SC','Microsoft YaHei','PingFang SC','WenQuanYi Zen Hei',sans-serif">
+<rect x="0" y="0" width="1472" height="160" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
 <defs>
-  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563EB"/></marker>
-  <marker id="arrowGray" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker>
-  <style><![CDATA[
-    text { font-family:'Noto Sans CJK SC','Microsoft YaHei','PingFang SC','Arial',sans-serif; }
-    .title { font-size:30px; font-weight:700; fill:#1F2937; }
-    .label { font-size:23px; font-weight:700; fill:#1F2937; }
-    .small { font-size:18px; fill:#667085; }
-    .tiny { font-size:15px; fill:#667085; }
-  ]]></style>
+  <marker id="03arrB" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#2563EB"/></marker>
+  <marker id="03arrT" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#0D9488"/></marker>
+  <marker id="03arrG" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#94A3B8"/></marker>
+  <marker id="03arrA" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#B45309"/></marker>
+  <marker id="03arrO" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#EA580C"/></marker>
+  <marker id="03dotB" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5"><circle cx="3.5" cy="3.5" r="3" fill="#2563EB"/></marker>
 </defs>
-<text x="45" y="50" class="small">需求不是独立产生，而是随整机采购与升级逐层传导</text>
-<g>
-<rect x="45" y="95" width="175" height="105" rx="20" fill="#F1F5F9"/><text x="132" y="138" text-anchor="middle" class="label">半导体制造</text><text x="132" y="172" text-anchor="middle" class="small">产能 / 工艺需求</text>
-<rect x="260" y="95" width="175" height="105" rx="20" fill="#F1F5F9"/><text x="347" y="138" text-anchor="middle" class="label">设备投资</text><text x="347" y="172" text-anchor="middle" class="small">晶圆厂资本开支</text>
-<rect x="475" y="95" width="175" height="105" rx="20" fill="#EAF2FF" stroke="#2563EB" stroke-width="2"/><text x="562" y="138" text-anchor="middle" class="label">光刻采购 / 升级</text><text x="562" y="172" text-anchor="middle" class="small">新机 + 存量改造</text>
-<rect x="690" y="95" width="165" height="105" rx="20" fill="#2563EB"/><text x="772" y="138" text-anchor="middle" class="label" style="fill:#FFFFFF">LS 需求</text><text x="772" y="172" text-anchor="middle" class="small" style="fill:#EAF2FF">测高 + 调焦调平</text>
-<line x1="220" y1="147" x2="250" y2="147" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow)"/><line x1="435" y1="147" x2="465" y2="147" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow)"/><line x1="650" y1="147" x2="680" y2="147" stroke="#2563EB" stroke-width="3" marker-end="url(#arrow)"/>
-</g>
-<rect x="45" y="238" width="810" height="48" rx="14" fill="#FFF7E6"/>
-<text x="450" y="268" text-anchor="middle" class="small">需求传导，并非固定比例换算；不能由设备投资直接折算 LS 市场规模</text>
-
+<rect x="26" y="16" width="320" height="82" rx="10" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.5"/>
+<text x="186" y="52" font-size="20" fill="#111827" font-weight="700" text-anchor="middle">半导体制造需求</text>
+<text x="186" y="78" font-size="15" fill="#64748B" font-weight="400" text-anchor="middle">产能与工艺升级</text>
+<line x1="354" y1="57" x2="384" y2="57" stroke="#2563EB" stroke-width="2.2" marker-end="url(#03arrB)"/>
+<rect x="392" y="16" width="320" height="82" rx="10" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.5"/>
+<text x="552" y="52" font-size="20" fill="#111827" font-weight="700" text-anchor="middle">晶圆厂设备投资</text>
+<text x="552" y="78" font-size="15" fill="#64748B" font-weight="400" text-anchor="middle">资本开支与采购周期</text>
+<line x1="720" y1="57" x2="750" y2="57" stroke="#2563EB" stroke-width="2.2" marker-end="url(#03arrB)"/>
+<rect x="758" y="16" width="320" height="82" rx="10" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.5"/>
+<text x="918" y="52" font-size="20" fill="#111827" font-weight="700" text-anchor="middle">光刻设备采购 / 升级</text>
+<text x="918" y="78" font-size="15" fill="#64748B" font-weight="400" text-anchor="middle">新机与存量改造</text>
+<line x1="1086" y1="57" x2="1116" y2="57" stroke="#2563EB" stroke-width="2.2" marker-end="url(#03arrB)"/>
+<rect x="1124" y="16" width="320" height="82" rx="10" fill="#ECFDF7" stroke="#0D9488" stroke-width="2.2"/>
+<text x="1284" y="52" font-size="20" fill="#0F766E" font-weight="700" text-anchor="middle">LS 测高与调焦调平需求</text>
+<text x="1284" y="78" font-size="15" fill="#64748B" font-weight="400" text-anchor="middle">本项目所处环节</text>
+<text x="26" y="132" font-size="15" fill="#64748B" font-weight="400" text-anchor="start">需求自上而下传导，不是固定比例换算：不能由设备投资金额或整机台数直接折算 LS 市场规模。</text>
 </svg>

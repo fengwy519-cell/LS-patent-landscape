@@ -1,32 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
-<rect width="900" height="360" fill="#FFFFFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1472" height="140" viewBox="0 0 1472 140" font-family="'Noto Sans CJK SC','Source Han Sans SC','Microsoft YaHei','PingFang SC','WenQuanYi Zen Hei',sans-serif">
+<rect x="0" y="0" width="1472" height="140" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
 <defs>
-  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2563EB"/></marker>
-  <marker id="arrowGray" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker>
-  <style><![CDATA[
-    text { font-family:'Noto Sans CJK SC','Microsoft YaHei','PingFang SC','Arial',sans-serif; }
-    .title { font-size:30px; font-weight:700; fill:#1F2937; }
-    .label { font-size:23px; font-weight:700; fill:#1F2937; }
-    .small { font-size:18px; fill:#667085; }
-    .tiny { font-size:15px; fill:#667085; }
-  ]]></style>
+  <marker id="05arrB" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#2563EB"/></marker>
+  <marker id="05arrT" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#0D9488"/></marker>
+  <marker id="05arrG" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#94A3B8"/></marker>
+  <marker id="05arrA" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#B45309"/></marker>
+  <marker id="05arrO" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#EA580C"/></marker>
+  <marker id="05dotB" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5"><circle cx="3.5" cy="3.5" r="3" fill="#2563EB"/></marker>
 </defs>
-<text x="45" y="48" class="small">量化只做“锚点”，三组数据口径不同，不混轴、不相加</text>
-<!-- M1 -->
-<rect x="45" y="82" width="385" height="220" rx="24" fill="#EAF2FF" stroke="#2563EB" stroke-width="2"/>
-<text x="75" y="120" class="small">M1｜ASML 新光刻系统销量</text>
-<text x="78" y="186" style="font-size:48px;font-weight:800;">380</text><text x="185" y="186" class="small">台（2024）</text>
-<text x="78" y="246" style="font-size:48px;font-weight:800;">300</text><text x="185" y="246" class="small">台（2025）</text>
-<text x="75" y="282" class="tiny">只说明：单一主流整机厂商每年存在数百台新机级设备需求</text>
-<!-- neutral connector -->
-<line x1="230" y1="198" x2="230" y2="217" stroke="#667085" stroke-width="2"/>
-<!-- M2 -->
-<rect x="470" y="82" width="385" height="220" rx="24" fill="#E8F7FA" stroke="#0F8FA8" stroke-width="2"/>
-<text x="500" y="120" class="small">M2｜全球半导体设备 · 2026 Q2</text>
-<text x="500" y="202" style="font-size:54px;font-weight:800;">405.3</text><text x="680" y="202" class="small">亿美元</text>
-<rect x="500" y="225" width="120" height="42" rx="12" fill="#FFFFFF"/><text x="560" y="253" text-anchor="middle" style="font-size:25px;font-weight:800;fill:#2F855A;">同比 +23%</text>
-<text x="500" y="287" class="tiny">只说明：全部半导体设备投资仍处于较高景气水平</text>
-<!-- caveat -->
-<text x="450" y="335" text-anchor="middle" class="tiny">M1 不是全球光刻销量或 LS 套数；M2 不是光刻 / LS 市场规模或增长率</text>
-
+<rect x="26" y="8" width="1420" height="120" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+<line x1="736" y1="20" x2="736" y2="116" stroke="#E2E8F0" stroke-width="1.2"/>
+<text x="52" y="34" font-size="15" fill="#1D4ED8" font-weight="700" text-anchor="start">M1 · ASML 新光刻系统销量（全球 · 年度）</text>
+<text x="52" y="80" font-size="16" fill="#334155" font-weight="400" text-anchor="start"><tspan fill="#111827" font-size="32" font-weight="700">380</tspan><tspan fill="#64748B" font-size="16" dx="6">台（2024）</tspan><tspan fill="#111827" font-size="32" font-weight="700" dx="46">300</tspan><tspan fill="#64748B" font-size="16" dx="6">台（2025）</tspan></text>
+<text x="52" y="108" font-size="13" fill="#64748B" font-weight="400" text-anchor="start">单一整机厂商新机数量；年度波动不代表行业趋势，也不等于 LS 套数。[S01]</text>
+<text x="762" y="34" font-size="15" fill="#1D4ED8" font-weight="700" text-anchor="start">M2 · 全球半导体设备销售额 billings（全部设备 · 单季度）</text>
+<text x="762" y="80" font-size="16" fill="#334155" font-weight="400" text-anchor="start"><tspan fill="#111827" font-size="32" font-weight="700">405.3</tspan><tspan fill="#64748B" font-size="16" dx="6">亿美元</tspan><tspan fill="#334155" font-size="16" dx="46">2026 Q2 · 同比 +23%</tspan></text>
+<text x="762" y="108" font-size="13" fill="#64748B" font-weight="400" text-anchor="start">涵盖全部半导体设备，不是光刻或 LS 市场规模；季度数据不年化。[S02]</text>
 </svg>

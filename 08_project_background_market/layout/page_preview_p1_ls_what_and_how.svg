@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" font-family="'Noto Sans CJK SC','Source Han Sans SC','Microsoft YaHei','PingFang SC','WenQuanYi Zen Hei',sans-serif">
+<rect x="0" y="0" width="1600" height="900" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="0" y="0" width="1600" height="900" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<rect x="64" y="44" width="5" height="40" rx="2.5" fill="#2563EB" stroke="none" stroke-width="1"/>
+<text x="84" y="78" font-size="40" fill="#111827" font-weight="700" text-anchor="start">LS 是什么、如何工作</text>
+<text x="1536" y="76" font-size="16" fill="#94A3B8" font-weight="400" text-anchor="end">背景 · 1 / 3</text>
+<line x1="64" y1="100" x2="1536" y2="100" stroke="#E2E8F0" stroke-width="1.4"/>
+<text x="64" y="152" font-size="22" fill="#1D4ED8" font-weight="700" text-anchor="start">LS 测量晶圆表面高度，经高度解算与面形重建生成补偿量，使曝光离焦保持在允许范围内。</text>
+<svg x="64" y="188" width="1472" height="640" viewBox="0 0 1472 640"><defs>
+  <marker id="pv10arrB" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#2563EB"/></marker>
+  <marker id="pv10arrT" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#0D9488"/></marker>
+  <marker id="pv10arrG" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#94A3B8"/></marker>
+  <marker id="pv10arrA" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#B45309"/></marker>
+  <marker id="pv10arrO" markerWidth="9" markerHeight="9" refX="7.2" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#EA580C"/></marker>
+  <marker id="pv10dotB" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5"><circle cx="3.5" cy="3.5" r="3" fill="#2563EB"/></marker>
+</defs>
+<rect x="26" y="18" width="250" height="140" rx="12" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.6"/>
+<circle cx="56" cy="50" r="14" fill="#2563EB" stroke="none" stroke-width="1"/><text x="56" y="55.04" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+<text x="80" y="56" font-size="23" fill="#111827" font-weight="700" text-anchor="start">光学测高</text>
+<text x="48" y="98" font-size="16" fill="#64748B" font-weight="400" text-anchor="start">斜入射图案投到晶圆</text>
+<text x="48" y="123" font-size="16" fill="#64748B" font-weight="400" text-anchor="start">接收反射信号</text>
+<line x1="284" y1="88" x2="310" y2="88" stroke="#2563EB" stroke-width="2.2" marker-end="url(#pv10arrB)"/>
+<rect x="318" y="18" width="250" height="140" rx="12" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.6"/>
+<circle cx="348" cy="50" r="14" fill="#2563EB" stroke="none" stroke-width="1"/><text x="348" y="55.04" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<text x="372" y="56" font-size="23" fill="#111827" font-weight="700" text-anchor="start">高度解算</text>
+<text x="340" y="98" font-size="16" fill="#64748B" font-weight="400" text-anchor="start">信号变化经标定</text>
+<text x="340" y="123" font-size="16" fill="#64748B" font-weight="400" text-anchor="start">换算为高度值</text>
+<line x1="576" y1="88" x2="602" y2="88" stroke="#2563EB" stroke-width="2.2" marker-end="url(#pv10arrB)"/>
+<rect x="610" y="18" width="250" height="140" rx="12" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.6"/>
+<circle cx="640" cy="50" r="14" fill="#2563EB" stroke="none" stroke-width="1"/><text x="640" y="55.04" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+<text x="664" y="56" font-size="23" fill="#111827" font-weight="700" text-anchor="start">晶圆面形重建</text>
+<text x="632" y="98" font-size="16" fill="#64748B" font-weight="400" text-anchor="start">多测点拼接成</text>
+<text x="632" y="123" font-size="16" fill="#64748B" font-weight="400" text-anchor="start">整片高度图</text>
+<line x1="868" y1="88" x2="894" y2="88" stroke="#2563EB" stroke-width="2.2" marker-end="url(#pv10arrB)"/>
+<rect x="902" y="18" width="250" height="140" rx="12" fill="#EFF5FF" stroke="#BFD4F5" stroke-width="1.6"/>
+<circle cx="932" cy="50" r="14" fill="#2563EB" stroke="none" stroke-width="1"/><text x="932" y="55.04" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">4</text>
+<text x="956" y="56" font-size="23" fill="#111827" font-weight="700" text-anchor="start">平台调焦调平</text>
+<text x="924" y="98" font-size="16" fill="#64748B" font-weight="400" text-anchor="start">生成平台高度与</text>
+<text x="924" y="123" font-size="16" fill="#64748B" font-weight="400" text-anchor="start">倾斜补偿量</text>
+<line x1="1160" y1="88" x2="1186" y2="88" stroke="#2563EB" stroke-width="2.2" marker-end="url(#pv10arrB)"/>
+<rect x="1194" y="18" width="250" height="140" rx="12" fill="#ECFDF7" stroke="#0D9488" stroke-width="2.2"/>
+<circle cx="1224" cy="50" r="14" fill="#0D9488" stroke="none" stroke-width="1"/><text x="1224" y="55.04" font-size="14" fill="#FFFFFF" font-weight="700" text-anchor="middle">5</text>
+<text x="1248" y="56" font-size="23" fill="#0F766E" font-weight="700" text-anchor="start">曝光控制</text>
+<text x="1216" y="98" font-size="16" fill="#64748B" font-weight="400" text-anchor="start">残余离焦保持在</text>
+<text x="1216" y="123" font-size="16" fill="#64748B" font-weight="400" text-anchor="start">允许范围内</text>
+<line x1="443" y1="184" x2="443" y2="164" stroke="#B45309" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#pv10arrA)"/>
+<rect x="326" y="184" width="234" height="52" rx="8" fill="#FFFBEB" stroke="#FCD9A0" stroke-width="1.4"/>
+<text x="443" y="217" font-size="16" fill="#92400E" font-weight="400" text-anchor="middle">标定 / 工艺补偿</text>
+<line x1="735" y1="184" x2="735" y2="164" stroke="#B45309" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#pv10arrA)"/>
+<rect x="618" y="184" width="234" height="52" rx="8" fill="#FFFBEB" stroke="#FCD9A0" stroke-width="1.4"/>
+<text x="735" y="217" font-size="16" fill="#92400E" font-weight="400" text-anchor="middle">平台坐标 · 采样时刻</text>
+<line x1="1319" y1="184" x2="1319" y2="164" stroke="#B45309" stroke-width="1.6" stroke-dasharray="5 4" marker-end="url(#pv10arrA)"/>
+<rect x="1202" y="184" width="234" height="52" rx="8" fill="#FFFBEB" stroke="#FCD9A0" stroke-width="1.4"/>
+<text x="1319" y="217" font-size="16" fill="#92400E" font-weight="400" text-anchor="middle">最佳焦面基准</text>
+<text x="26" y="264" font-size="15" fill="#64748B" font-weight="400" text-anchor="start">辅助输入（橙色）不是测量结果：没有标定、坐标与焦面基准，测到的高度无法用于曝光控制。</text>
+<text x="1446" y="264" font-size="15" fill="#64748B" font-weight="400" text-anchor="end">LS 提供测量与解算信息；平台动作由整机控制链执行。</text>
+<line x1="26" y1="282" x2="1446" y2="282" stroke="#E2E8F0" stroke-width="1"/>
+<rect x="26" y="294" width="1420" height="334" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.2"/>
+<circle cx="52" cy="324" r="13" fill="#2563EB" stroke="none" stroke-width="1"/><text x="52" y="328.68" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+<text x="72" y="330" font-size="17" fill="#111827" font-weight="700" text-anchor="start">光学测高的基本原理（功能示意，不是具体机型的机械结构）</text>
+<text x="340" y="356" font-size="17" fill="#1D4ED8" font-weight="700" text-anchor="start">投影单元</text>
+<rect x="340" y="366" width="284" height="80" rx="8" fill="#FFFFFF" stroke="#BFD4F5" stroke-width="1.6"/>
+<text x="482" y="396" font-size="16" fill="#334155" font-weight="400" text-anchor="middle">光栅 / 狭缝图案</text>
+<rect x="446" y="412" width="3.4" height="18" rx="0" fill="#BFD4F5" stroke="none" stroke-width="1"/>
+<rect x="454" y="412" width="3.4" height="18" rx="0" fill="#BFD4F5" stroke="none" stroke-width="1"/>
+<rect x="462" y="412" width="3.4" height="18" rx="0" fill="#BFD4F5" stroke="none" stroke-width="1"/>
+<rect x="470" y="412" width="3.4" height="18" rx="0" fill="#BFD4F5" stroke="none" stroke-width="1"/>
+<rect x="478" y="412" width="3.4" height="18" rx="0" fill="#BFD4F5" stroke="none" stroke-width="1"/>
+<rect x="486" y="412" width="3.4" height="18" rx="0" fill="#BFD4F5" stroke="none" stroke-width="1"/>
+<rect x="494" y="412" width="3.4" height="18" rx="0" fill="#BFD4F5" stroke="none" stroke-width="1"/>
+<rect x="502" y="412" width="3.4" height="18" rx="0" fill="#BFD4F5" stroke="none" stroke-width="1"/>
+<rect x="510" y="412" width="3.4" height="18" rx="0" fill="#BFD4F5" stroke="none" stroke-width="1"/>
+<text x="950" y="356" font-size="17" fill="#1D4ED8" font-weight="700" text-anchor="start">探测单元</text>
+<rect x="950" y="366" width="300" height="90" rx="8" fill="#FFFFFF" stroke="#BFD4F5" stroke-width="1.6"/>
+<text x="1100" y="388" font-size="16" fill="#334155" font-weight="400" text-anchor="middle">接收位置 · 相位检测</text>
+<line x1="966" y1="440" x2="1234" y2="440" stroke="#94A3B8" stroke-width="1.2"/>
+<line x1="600" y1="552" x2="840" y2="552" stroke="#94A3B8" stroke-width="1.4" stroke-dasharray="6 5"/>
+<line x1="600" y1="528" x2="790" y2="528" stroke="#2563EB" stroke-width="1.6" stroke-dasharray="6 5"/>
+<text x="596" y="557" font-size="14" fill="#64748B" font-weight="400" text-anchor="end">参考面</text>
+<text x="596" y="533" font-size="14" fill="#2563EB" font-weight="400" text-anchor="end">局部抬高</text>
+<line x1="620" y1="528" x2="620" y2="552" stroke="#2563EB" stroke-width="1.6" marker-end="url(#pv10arrB)"/><line x1="620" y1="552" x2="620" y2="528" stroke="#2563EB" stroke-width="1.6" marker-end="url(#pv10arrB)"/>
+<text x="630" y="544" font-size="17" fill="#2563EB" font-weight="700" text-anchor="start">Δh</text>
+<line x1="480" y1="446" x2="820" y2="552" stroke="#2563EB" stroke-width="2.4" marker-end="url(#pv10arrB)"/>
+<line x1="820" y1="552" x2="1179" y2="440" stroke="#2563EB" stroke-width="2.4"/>
+<line x1="743" y1="528" x2="1025" y2="440" stroke="#2563EB" stroke-width="2" stroke-dasharray="7 5"/>
+<line x1="985" y1="501" x2="1012" y2="493" stroke="#2563EB" stroke-width="2.4" marker-end="url(#pv10arrB)"/>
+<circle cx="820" cy="552" r="5" fill="#2563EB" stroke="none" stroke-width="1"/>
+<circle cx="743" cy="528" r="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<circle cx="1179" cy="440" r="5" fill="#2563EB" stroke="none" stroke-width="1"/>
+<circle cx="1025" cy="440" r="5" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<line x1="1025" y1="436" x2="1025" y2="418" stroke="#BFD4F5" stroke-width="1.1"/>
+<line x1="1179" y1="436" x2="1179" y2="418" stroke="#BFD4F5" stroke-width="1.1"/>
+<line x1="1025" y1="424" x2="1179" y2="424" stroke="#2563EB" stroke-width="1.6" marker-end="url(#pv10arrB)"/><line x1="1179" y1="424" x2="1025" y2="424" stroke="#2563EB" stroke-width="1.6" marker-end="url(#pv10arrB)"/>
+<text x="1102" y="414" font-size="17" fill="#2563EB" font-weight="700" text-anchor="middle">Δx</text>
+<text x="1262" y="444" font-size="14" fill="#2563EB" font-weight="400" text-anchor="start">Δx：接收位置偏移</text>
+<path d="M 660 574 C 730 552 780 576 820 558 C 900 522 1080 600 1300 566 L 1300 578 C 1080 612 900 534 820 570 C 780 588 730 564 660 586 Z" fill="#E2E8F0" stroke="#94A3B8" stroke-width="1"/>
+<path d="M 660 568 C 730 546 780 570 820 552 C 900 516 1080 594 1300 560 L 1300 566 C 1080 600 900 522 820 558 C 780 576 730 552 660 574 Z" fill="#BFD4F5" stroke="#7EA6E0" stroke-width="0.9"/>
+<rect x="640" y="600" width="680" height="16" rx="3" fill="#CBD5E1" stroke="none" stroke-width="1"/>
+<text x="1312" y="560" font-size="14" fill="#1D4ED8" font-weight="400" text-anchor="start">膜层</text>
+<text x="1312" y="578" font-size="14" fill="#64748B" font-weight="400" text-anchor="start">晶圆</text>
+<text x="1312" y="613" font-size="14" fill="#64748B" font-weight="400" text-anchor="start">工件台</text>
+<text x="48" y="520" font-size="15" fill="#334155" font-weight="400" text-anchor="start">斜入射：投影图案以大角度照射晶圆表面</text>
+<text x="48" y="548" font-size="15" fill="#334155" font-weight="400" text-anchor="start">晶圆存在翘曲与局部起伏，表面还有膜层</text>
+<text x="48" y="576" font-size="15" fill="#334155" font-weight="400" text-anchor="start">Δh 使接收位置或相位变化 Δx，再经标定换算为高度</text></svg>
+<line x1="64" y1="846" x2="1536" y2="846" stroke="#E2E8F0" stroke-width="1"/>
+<text x="64" y="868" font-size="14" fill="#94A3B8" font-weight="400" text-anchor="start">功能示意，非具体机型结构；测量可预先进行，也可与曝光并行。LS 测高不等于光学最佳焦面测定；对准看平面位置，套刻看层间图形误差。[S03, S09]</text>
+</svg>
